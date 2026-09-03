@@ -1,0 +1,180 @@
+.bigrect #tmlCaptionText div{
+    overflow: visible;
+}
+
+.bigrect .tmlbutton {
+    background-image: url('img/elements/button.png');
+    background-size:   100%;
+}
+
+.bigrect #timeline div, .bigrect #timeline p,  .bigrect .textarea>div {
+    background-size: 100% 100%;
+}
+
+
+.bigrect #timeline p{
+    width:34px;
+    height:12px;
+    font-family:'PT Serif';
+    font-weight: bold;
+    font-size:13px;
+    line-height:11px;
+    color:white;
+    text-align:center;
+    background:#EF4123;
+    margin: 0px 0px 0px 6px;
+    padding:0px;
+    -webkit-transform:rotate(-90deg);
+    -webkit-transform-origin:23px 11px;
+    -ms-transform:rotate(-90deg);
+    -ms-transform-origin:23px 11px;
+    transform:rotate(-90deg);
+    transform-origin:23px 11px;
+    letter-spacing:0px;
+    z-index: 100020;
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+
+/*.bigrect #timeline p.red{*/
+    /*width:48px;*/
+    /*height:34px;*/
+    /*font-size:14px;*/
+    /*line-height:33px;*/
+    /*color:#939598;*/
+    /*background:url('img/elements/red.png') top left;*/
+    /*background-size: 100% 100%;*/
+    /*margin:0px;*/
+    /*-webkit-transform: rotate(0deg);*/
+    /*-ms-transform: rotate(0deg);*/
+    /*transform: rotate(0deg);*/
+/*}*/
+
+/* стили слайдов таймлайна*/
+.bigrect div.tmlmenu {
+    width: 1024px;
+    height: 192px;
+    position: absolute;
+    left: 0px;
+    top: -192px;
+    background-color: #EBEBEC;
+    z-index: 100001;
+}
+
+.bigrect div.tmlmenu div div {
+    z-index: 100001;
+}
+
+.bigrect div.tmlmenu .active {
+    border-left: 1px solid #EF4123;
+    border-right: 1px solid #EF4123;
+    left: -1px;
+    z-index: 100002;
+}
+
+.bigrect .tmlmenu .shadow {
+    background-image: url('img/elements/ten.png');
+    position: absolute;
+    border: none;
+
+}
+
+.bigrect div.tmlcontent {
+    width: 1024px;
+    height: 540px;
+    position: absolute;
+    left: 0;
+    top: 768px;
+    background: #EBEBEC url('img/elements/map.png') no-repeat bottom center;
+    background-size: 414px 253px;
+    /*    -webkit-transition: all 0.34s ease-in;*/
+    z-index: 100000;
+}
+
+.bigrect div.tmlleft {
+    float:left;
+    border-right: 1px solid #EF4123;
+    width:304px;
+    height:540px;
+    background:white;
+    z-index: 1;
+}
+
+.bigrect div.tmlright{
+    float:right;
+    border-left:1px solid #EF4123;
+    width:304px;
+    height:540px;
+    background:white;
+    z-index: 1;
+}
+
+.bigrect div.tmlcenter {
+    top: 0;
+    left: 378px;
+    width:268px;
+    height: 540px;
+    position: absolute;
+    background: none;
+    display:block;
+    z-index: 100009;
+}
+
+.bigrect div.tmlwhite {
+    top: 0;
+    left: 378px;
+    width:268px;
+    height: 540px;
+    position: absolute;
+    background: white;
+    display:block;
+    z-index: 100008;
+}
+
+.bigrect div.tmlline {
+    width:268px;
+    height: 1px;
+    background:#EF4123;
+    display:block;
+    position: absolute;
+    left: 378px;
+    z-index: 100011;
+}
+
+.bigrect div.tmlimg {
+    width:414px;
+    position:absolute;
+    bottom:0px;
+    left:305px;
+    z-index:-1;
+}
+
+.bigrect div.tmlcolumn {
+    position: absolute;
+    top: 0px;
+    width:304px;
+    height:540px;
+    background:white;
+}
+
+.bigrect div.tmlCcolumn {
+    position: absolute;
+    top: 0px;
+    width:268px;
+    z-index: 100010;
+}
+
+.bigrect div.tmlbottom {
+    width:414px;
+    position:absolute;
+    top:0px;
+    left:305px;
+    z-index: 0;
+}
+
+.bigrect img.tmlBcolumn {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
