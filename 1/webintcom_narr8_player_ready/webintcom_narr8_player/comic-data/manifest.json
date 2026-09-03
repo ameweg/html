@@ -1,0 +1,289 @@
+{
+	"type": "universal",
+	"name": "PandaBum_Ep01",
+	"scenes": [
+		{
+			"page_number": 0,
+			"name": "",
+			"file_name": "",
+			"contents_image": "img/preview/0.png"
+		},
+		{
+			"page_number": 1,
+			"name": "",
+			"file_name": "",
+			"contents_image": "img/preview/00.png"
+		},
+		{
+			"page_number": 2,
+			"name": "1",
+			"file_name": "",
+			"contents_image": "img/preview/01.png"
+		},
+		{
+			"page_number": 3,
+			"name": "2",
+			"file_name": "",
+			"contents_image": "img/preview/02.png"
+		},
+		{
+			"page_number": 4,
+			"name": "3",
+			"file_name": "",
+			"contents_image": "img/preview/03.png"
+		},
+		{
+			"page_number": 5,
+			"name": "4",
+			"file_name": "",
+			"contents_image": "img/preview/04.png"
+		},
+		{
+			"page_number": 6,
+			"name": "5",
+			"file_name": "",
+			"contents_image": "img/preview/05.png"
+		},
+		{
+			"page_number": 7,
+			"name": "6",
+			"file_name": "",
+			"contents_image": "img/preview/06.png"
+		},
+		{
+			"page_number": 8,
+			"name": "7",
+			"file_name": "",
+			"contents_image": "img/preview/07.png"
+		},
+		{
+			"page_number": 9,
+			"name": "8",
+			"file_name": "",
+			"contents_image": "img/preview/08.png"
+		},
+		{
+			"page_number": 10,
+			"name": "9",
+			"file_name": "",
+			"contents_image": "img/preview/09.png"
+		},
+		{
+			"page_number": 11,
+			"name": "10",
+			"file_name": "",
+			"contents_image": "img/preview/10.png"
+		},
+		{
+			"page_number": 12,
+			"name": "11",
+			"file_name": "",
+			"contents_image": "img/preview/11.png"
+		},
+		{
+			"page_number": 13,
+			"name": "12",
+			"file_name": "",
+			"contents_image": "img/preview/12.png"
+		},
+		{
+			"page_number": 14,
+			"name": "13",
+			"file_name": "",
+			"contents_image": "img/preview/13.png"
+		}
+	],
+	"languages": [
+		"ru",
+		"en",
+		"es",
+		"ko"
+	],
+	"video": [
+		{
+			"key_frames": [
+				0
+			],
+			"quality": 2,
+			"file": "video/0.mp4"
+		},
+		{
+			"key_frames": [
+				3,
+				3.04,
+				9
+			],
+			"quality": 2,
+			"file": "video/01.mp4"
+		},
+		{
+			"key_frames": [
+				1
+			],
+			"quality": 2,
+			"file": "video/02.mp4"
+		},
+		{
+			"key_frames": [
+				4
+			],
+			"quality": 2,
+			"file": "video/03.mp4"
+		},
+		{
+			"key_frames": [
+				3
+			],
+			"quality": 2,
+			"file": "video/05.mp4"
+		},
+		{
+			"key_frames": [
+				14,
+				21,
+				3,
+				8
+			],
+			"quality": 2,
+			"file": "video/06.mp4"
+		},
+		{
+			"key_frames": [
+				2
+			],
+			"quality": 2,
+			"file": "video/07.mp4"
+		},
+		{
+			"key_frames": [
+				10,
+				10.04,
+				22,
+				26,
+				5
+			],
+			"quality": 2,
+			"file": "video/08.mp4"
+		},
+		{
+			"key_frames": [
+				10,
+				15,
+				2,
+				23,
+				26
+			],
+			"quality": 2,
+			"file": "video/09.mp4"
+		},
+		{
+			"key_frames": [
+				10,
+				15,
+				4
+			],
+			"quality": 2,
+			"file": "video/10.mp4"
+		},
+		{
+			"key_frames": [
+				14,
+				20,
+				3,
+				7
+			],
+			"quality": 2,
+			"file": "video/11.mp4"
+		},
+		{
+			"key_frames": [
+				4.2
+			],
+			"quality": 2,
+			"file": "video/04.mp4"
+		},
+		{
+			"key_frames": [
+				2
+			],
+			"quality": 2,
+			"file": "video/00.mp4"
+		},
+		{
+			"key_frames": [
+				3
+			],
+			"quality": 2,
+			"file": "video/12.mp4"
+		},
+		{
+			"key_frames": [
+				3
+			],
+			"quality": 2,
+			"file": "video/tbc.mp4"
+		}
+	],
+	"image_resize": [
+		{
+			"platforms": [
+				"android"
+			],
+			"files": [
+				"img/buttons/Domik.png",
+				"balloon/touch.png",
+				"img/buttons/Number.png",
+				"img/buttons/Next.png",
+				"img/buttons/close.png",
+				"img/buttons/minus_idle.png",
+				"img/buttons/minus_active.png",
+				"img/buttons/1_idle.png",
+				"img/buttons/1_active.png",
+				"img/buttons/2_idle.png",
+				"img/buttons/2_active.png",
+				"img/buttons/3_idle.png",
+				"img/buttons/3_active.png",
+				"img/sequences/vopros-podloga.png",
+				"img/sequences/0ruka1.png",
+				"img/sequences/0kniga.png",
+				"img/sequences/nextstrela.png",
+				"img/sequences/0ruka2.png",
+				"img/sequences/bubble-vopros-1.png",
+				"img/sequences/lupa.png",
+				"img/sequences/ruka_trogaet.png",
+				"img/sequences/ruka-kulak.png",
+				"img/sequences/Slovo_Karatist.png",
+				"img/sequences/Lang_RU.png",
+				"img/sequences/Lang_EN.png",
+				"img/sequences/Lang_ES.png",
+				"img/sequences/Lang_KO.png",
+				"img/sequences/touch.png",
+				"img/sequences/plaska-01.png",
+				"img/sequences/bubble-vopros-2.png",
+				"img/sequences/bubble-vosclicanie-2.png",
+				"img/sequences/plaskavopros.png",
+				"img/sequences/bubble-aborigen.png",
+				"img/sequences/Slovo_Tapki.png",
+				"img/sequences/bubble-pustoy.png",
+				"img/sequences/bubble-vosclicanie-1.png",
+				"img/sequences/4_2.png",
+				"img/sequences/Slovo_Bambook.png",
+				"img/sequences/7.png",
+				"img/sequences/6_2.png",
+				"img/sequences/strelaback.png",
+				"img/sequences/Slovo_Kvadrat.png",
+				"img/sequences/bubble-pustoy2zz.png",
+				"img/sequences/Lang_Touch.png",
+				"img/sequences/tbc_lang_ru.png",
+				"img/sequences/tbc_lang_en.png",
+				"img/sequences/tbc_lang_es.png",
+				"img/sequences/tbc_lang_ko.png",
+				"img/sequences/tbc-karatist.png",
+				"img/sequences/tbc-eda.png",
+				"img/sequences/tbc-bambook.png",
+				"img/sequences/tbc-kvadrat.png",
+				"img/sequences/tbc-tapki.png"
+			]
+		}
+	]
+}
